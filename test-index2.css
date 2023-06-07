@@ -1,0 +1,27 @@
+.title{
+    color:brown
+}
+
+
+.plant-1{
+    text-align: left;
+}
+
+.plant-2{
+    text-align: left;
+}
+
+.plant-3{
+    text-align: left;
+}
+
+.paragraph-border{
+    border-color: rgb(117, 72, 56);
+    border-style: dotted;
+    margin: 5px;
+}
+
+div {
+    background: rgba(63, 146, 63, 0.25) /* Green background with 25% opacity */
+}
+
